@@ -1,4 +1,4 @@
-# NSQUIP Surgical Data Wrangling Project
+# NSQIP Surgical Data Wrangling Project
 ## Overview
 The American College of Surgeons National Surgical Quality Improvement Program (ACS NSQIP) is taking an approach for surgical procedures by working with hospitals to develop best practices around certain procedures with the objectives of preventing surgical complications, saving lives, and reducing healthcare costs. The main goal of this analysis is to determine whether hospital medicare claim type files can be used to participate in the ACS NSQIP program. We've selected 6 different NSQIP measures, and will use them to help determine whether or not these files can be used to participate in the NSQIP program: <br >
 
